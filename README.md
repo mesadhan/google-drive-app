@@ -11,7 +11,7 @@ Start a new `Android Studio project` from the startup screen or `New Project` th
 
 Enter the name `drive-rest-sample` company domain and a project location. Make sure to Choose Language Java.
 
-![Alt Text](https://thepracticaldev.s3.amazonaws.com/i/rgomvmv3qjodb0vlqq1g.png)
+![Alt Text](https://thepracticaldev.s3.amazonaws.com/i/p199fkcab2nxcqjvjkak.png)
 
 And Click `Finish` .
 
