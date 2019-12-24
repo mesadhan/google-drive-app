@@ -1,0 +1,4 @@
+<resources>
+   <!-- <string name="app_name">drive-rest-sample</string>-->
+    <string name="app_name">Drive API Migration</string>
+</resources>
