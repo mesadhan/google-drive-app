@@ -9,7 +9,7 @@ Okay, it's enough to talk about it 😎 Let's get into it,
 
 Start a new `Android Studio project` from the startup screen or `New Project` then select `Empty Activity' from the `Choose Project` box.
 
-Enter the name `gdrive-app` company domain and a project location. Make sure to Choose Language Java.
+Enter the name `drive-rest-sample` company domain and a project location. Make sure to Choose Language Java.
 
 ![Alt Text](https://thepracticaldev.s3.amazonaws.com/i/rgomvmv3qjodb0vlqq1g.png)
 
