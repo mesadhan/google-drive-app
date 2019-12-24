@@ -72,7 +72,7 @@ If everything works correctly, you should see something like this:
 
 > Optional, Now, In the Credentials page. Authorization on Android uses the `SHA1` fingerprint and `package name` to `identify your app`, so you `don’t have to download` any `JSON file or copy any API key` or secret to our project.
 
-It about lots man, Don't worry! Now, are in the fun part :p
+It about lots man, Don't worry! Now, are in the fun part 😎.
 
 # Let's Back to - Android Studio 
 
