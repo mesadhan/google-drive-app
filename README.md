@@ -651,8 +651,7 @@ public class MainActivity extends AppCompatActivity {
 ```
 
 👌 Congratulations!. & Thank You!
-Feel free to comments, If you have any issues & queries.
-
+If you have any issues and queries,Feel Free To Comment.
 
 ### References:
 - https://developers.google.com/drive/android/examples
